@@ -2,27 +2,27 @@
 title: "Installing the certificate manually"
 old_id: 12
 ---
-If you're having troubles connecting to Akatsuki or the switcher doesn't install the certificate properly, you can try installing it manually.
+如果你在连接 Akatsuki 时翻车了或者服务器切换器并没有正常安装证书, 你可以试着手动安装.
 
-### Instructions
-- First, download the certificate [by clicking here](https://old.akatsuki.pw/akatsuki.crt)
-- Then, open **certificate.cer**
-- Click **Install certificate...**
-- Click **Next**
-- Select **Place all certificates in the following store** (second option), then click **Browse...**
-- A new window will pop up, select **Trusted root certification authorities** and click **Ok**
-- Click **Next**
-- Click **Finish**
+### 普通安装
+- 首先, 下载 [证书](https://old.akatsuki.pw/akatsuki.crt)
+- 然后, 打开 **certificate.cer**
+- 点击 **Install certificate...**
+- 点击 **Next**
+- 选择 **Place all certificates in the following store** (第二项), 然后点击 **Browse...**
+- 然后会弹出一个新窗口, 选择 **Trusted root certification authorities** 然后点击 **Ok**
+- 点击 **Next**
+- 点击 **Finish**
 
-### If everything else fails...
-...you can try to remove all existing Akatsuki certificates and install the certificate again. Follow these steps:
+### 如果都翻车了...
+...你得试试删掉所有 Akatsuki 的证书然后重装证书:
 
-- Press **Win+R**  
-- Type `mmc certmgr.msc` in the run box and press **enter** to open the Certificate Manager  
-- Select **Trusted root certification authorities** on the left  
-- Select **Certificates** on the right  
-- You should see some **[Akatsuki](https://onii-chan-please.come-inside.me/2020-05-05_10-02-46.png)** and some **\*.ppy.sh** entries in the list. Select them, **right click** and click on **Delete**  
-- Select all the positive options (Ok/Yes etc)  
-- Restart the switcher, click on **Inspect**, then choose **Install certificate**, then **Yes**  
-- Click on **Test Akatsuki connection** and you should see "OK" for every domains  
-**If the inspect dialog is fine but you still can't connect to Akatsuki from the game client, try running osu! as administrator**.
+- 按下 **Win+R**  
+- 输入 `mmc certmgr.msc` 然后按 **enter** 打开证书管理器
+- 选择左边的 **Trusted root certification authorities**
+- 选择右边的 **Certificates**
+- 然后你可以看到列表里有 **[Akatsuki](https://onii-chan-please.come-inside.me/2020-05-05_10-02-46.png)** 和一些 **\*.ppy.sh**. 选择他们, **右键** 然后选择 **删除**  
+- 选择所有对的选项 (Ok/Yes)  
+- 重启服务器切换器, 点击 **Inspect**, 然后选择 **Install certificate**, 然后 **Yes**  
+- 点击 **Test Akatsuki connection** 然后你应该就可以看到所有的域名都提示 "OK"
+**如果所有检测都正常但是你还是连不上 Akatsuki, 试试以管理员权限运行 osu!**.
