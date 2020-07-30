@@ -18,55 +18,55 @@ old_id: 5
 
 -----------------------
 
-- **I get "Bancho authentication failed" (wrong password) when I try to log in, but my password is correct!**  
-- First, make sure you're connected to Akatsuki (the server switcher should report "You're playing on Akatsuki") and that your password is corrected. If so, type your username and password, then press the **login** button with your mouse. I know, it's weird but it often works. *(make also sure that caps lock is disabled if your password is lowercase)*
+- **我登录的时候提示 "Bancho authentication failed" (密码错误) 但是我密码绝壁没错!**  
+- 首先, 确保你确实是在 Akatsuki 玩 (服务器切换器会提示 "You're playing on Akatsuki") 并且你密码对的. 接着, 输入账号密码, 然后点击 **login** 按钮. 我知道这很沙皮, 但确实基本都有用. *(如果你的密码是小写记得关掉 caps lock )*
 
 -----------------------
 
-- **I can't download maps from osu!direct.**
-- Unranked beatmaps can't be downloaded from our beatmap mirror due to technical reasons.
+- **我没法从 osu!direct 下图.**
+- Unranked 图由于技术原因无法从我们的地图镜像站下载.
 
 -----------------------
 
-- **I can't download maps when I'm in multiplayer, but I can download them from the main menu**
-- Disable **Automatically start osu!direct downloads** from the options and try again. Alternatively, you can use the `!b` command in `#multiplayer` and `#spectator` to get a download link for the current beatmap.
+- **我不能在多人游玩的时候下图, 但可以在主菜单下.**
+- 在选项中关闭 **自动启动 osu!direct 下载** 然后重试. 此外, 你可以在频道 `#multiplayer` 或 `#spectator` 使用指令 `!b` 获取当前地图的下载链接.
 
 -----------------------
 
-- **How do I play on the normal osu! again?**
-- Close osu!, run the switcher and click the **Switch to osu!** button
+- **我怎么切换回官方版本?**
+- 关掉 osu!, 启动服务器切换器然后点击 **Switch to osu!** 按钮
 
 -----------------------
 
-- **My switcher is off but when I open osu.ppy.sh in my browser I get an error or I get redirected to Akatsuki's website!**
-- Make sure the switcher is off, then empty your browser cache and restart your browser. [Google it](http://lmgtfy.com/?q=How+to+empty+browser+cache) if you don't know how to do it.
+- **我已经切回了官方服, 但我访问 osu.ppy.sh 的时候还是报错并且重定向到 Akatsuki 的网站!**
+- 确保你已经切回来了, 然后清空浏览器缓存, 重启浏览器. [谷歌一下](http://lmgtfy.com/?q=How+to+empty+browser+cache) 如果你不知道具体步骤.
 
 -----------------------
 
-- **I get strange errors on osu!'s website after playing on Akatsuki (beatmaps not found etc)**
-- Delete `s` and `t` cookies relative to osu.ppy.sh using a [cookie editor](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg). If you don't know how to remove specific cookies, just delete all cookies from your browser settings.
+- **我玩了 Akatsuki 之后访问 osu! 官方网站报错 (beatmaps not found 之类的)**
+- 删掉关联 osu.ppy.sh 的 `s` 和 `t` cookies, 用[cookie editor](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)插件. 如果你不知道怎么删除特定 cookies, 从浏览器设置全部干掉就行.
 
 -----------------------
 
-- **Can I keep playing while the server is restarting because it's updating?**
-- Yes, your scores will be sent as soon as the server gets back online (usually less than a minute). Just make sure to not close the client.
+- **我能不能在服务器重启升级的时候玩?**
+- 可以, 当服务器升级完成时你的分数就会被上传(一般不到一分钟). 只要你别关了客户端就行.
 
 -----------------------
 
-- **Is there a patcher for Akatsuki?**
-- No, you can change server by editing the hosts file with our switcher. [Instructions here](https://akatsuki.pw/doc/1).
+- **有没有直连 Akatsuki 的补丁?**
+- 暂时没有, 你只能通过服务器切换器来连接. [说明书](https://akatsuki.pw/doc/1).
 
 -----------------------
 
-- **Can I have Akatsuki's source code?**
--  Akatsuki is mostly open source, you can see it [here](https://github.com/osuAkatsuki/).
+- **我可以拥有 Akatsuki 的源码吗?**
+-  Akatsuki 基本都开源了, 你可以在 [这里](https://github.com/osuAkatsuki/) 找到他们.
 
 -----------------------
 
-- **Why are osu!direct and other in-game supporter perks free?**
-- We think that osu! direct is very cool and it's a shame people have to pay to have it, that's why we're offering it for free on Akatsuki. If you like what we do, please consider a [donation](/donate)
+- **为什么 osu!direct 以及大部分撒泼特功能都是免费的?**
+- 我们觉得 osu! direct 很酷, 大家不应该为他付费. 这就是为什么 Akatsuki 免费提供了这个功能. 如果你喜欢, 考虑一下[捐助我们](/donate)?
 
 -----------------------
 
-- **My problem is not listed here**
-- Join our [discord](https://discord.gg/akatsuki) and ask your question in the #help channel of the server.
+- **我的问题不在列表内**
+- 加入我们的 [discord](https://discord.gg/akatsuki) 然后你就可以在 #help 频道里问问题了.
