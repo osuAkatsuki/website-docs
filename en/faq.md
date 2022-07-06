@@ -8,18 +8,13 @@ old_id: 5
 
 -----------------------
 
-- **My antivirus is blocking the switcher**
-- That's because our switcher edits the hosts file. Turn off your antivirus and run the switcher again.
-
------------------------
-
 - **I get "Connection failed" when I try to connect to Akatsuki**  
-- Click the "Inspect" button on the server switcher and make sure that all the labels are green ([like this](https://i.ibb.co/68TL6zT/Settings-Form.png)). If you still can't solve this problem, come on our [Discord](https://discord.gg/akatsuki) and we'll help you.
+- Make sure you've followed all steps correctly from our [connection guide](https://akatsuki.pw/doc/connection_guide). If you still can't solve this problem, come on our [Discord](https://akatsuki.pw/discord) and we'll help you.
 
 -----------------------
 
 - **I get "Bancho authentication failed" (wrong password) when I try to log in, but my password is correct!**  
-- First, make sure you're connected to Akatsuki (the server switcher should report "You're playing on Akatsuki") and that your password is corrected. If so, type your username and password, then press the **login** button with your mouse. I know, it's weird but it often works. *(make also sure that caps lock is disabled if your password is lowercase)*
+- First, make sure you're connected to Akatsuki and that your password is corrected. If so, type your Akatsuki username and password, then press the **login** button with your mouse. I know, it's weird but it often works. *(make also sure that caps lock is disabled if your password is lowercase)*
 
 -----------------------
 
@@ -29,22 +24,12 @@ old_id: 5
 -----------------------
 
 - **I can't download maps when I'm in multiplayer, but I can download them from the main menu**
-- Disable **Automatically start osu!direct downloads** from the options and try again. Alternatively, you can use the `!b` command in `#multiplayer` and `#spectator` to get a download link for the current beatmap.
+- Disable **Automatically start osu!direct downloads** from the options and try again. Alternatively, you can use the `!b`/`!bloodcat` command in `#multiplayer` and `#spectator` to get a download link for the current beatmap.
 
 -----------------------
 
 - **How do I play on the normal osu! again?**
-- Close osu!, run the switcher and click the **Switch to osu!** button
-
------------------------
-
-- **My switcher is off but when I open osu.ppy.sh in my browser I get an error or I get redirected to Akatsuki's website!**
-- Make sure the switcher is off, then empty your browser cache and restart your browser. [Google it](http://lmgtfy.com/?q=How+to+empty+browser+cache) if you don't know how to do it.
-
------------------------
-
-- **I get strange errors on osu!'s website after playing on Akatsuki (beatmaps not found etc)**
-- Delete `s` and `t` cookies relative to osu.ppy.sh using a [cookie editor](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg). If you don't know how to remove specific cookies, just delete all cookies from your browser settings.
+- Visit our [connection guide](/doc/connection_guide) to learn how to return to Bancho.
 
 -----------------------
 
@@ -53,8 +38,13 @@ old_id: 5
 
 -----------------------
 
-- **Is there a patcher for Akatsuki?**
-- No, you can change server by editing the hosts file with our switcher. [Instructions here](https://akatsuki.pw/doc/1).
+- **Is there a way to display misses on Relax?**
+- Yes! You can enable misses to display on Relax using our [patcher](https://akatsuki.pw/patcher).
+
+-----------------------
+
+- **Why is my computer flagging the Akatsuki Patcher as a potential threat?**
+- The Patcher is a program which injects itself to your game client and makes modifications to it, which isn't something your computer considers to be friendly. But don't worry! Our patcher doesn't byte. Just disable your antivirus and try redownloading or running it again, should work perfectly.
 
 -----------------------
 
@@ -64,9 +54,9 @@ old_id: 5
 -----------------------
 
 - **Why are osu!direct and other in-game supporter perks free?**
-- We think that osu! direct is very cool and it's a shame people have to pay to have it, that's why we're offering it for free on Akatsuki. If you like what we do, please consider a [donation](/donate)
+- We think that osu! direct is very cool and it's a shame people have to pay to have it, that's why we're offering it for free on Akatsuki. If you like what we do, please consider a [donation](/donate)!
 
 -----------------------
 
 - **My problem is not listed here**
-- Join our [discord](https://discord.gg/akatsuki) and ask your question in the #help channel of the server.
+- Join our [discord](https://akatsuki.pw/discord) and ask your question in the #help channel of the server.
