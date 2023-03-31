@@ -9,7 +9,7 @@ old_id: 5
 -----------------------
 
 - **I get "Connection failed" when I try to connect to Akatsuki**  
-- Make sure you've followed all steps correctly from our [connection guide](https://akatsuki.pw/doc/connection_guide). If you still can't solve this problem, come on our [Discord](https://akatsuki.pw/discord) and we'll help you.
+- Make sure you've followed all steps correctly from our [connection guide](https://akatsuki.gg/doc/connection_guide). If you still can't solve this problem, come on our [Discord](https://akatsuki.gg/discord) and we'll help you.
 
 -----------------------
 
@@ -39,7 +39,7 @@ old_id: 5
 -----------------------
 
 - **Is there a way to display misses on Relax?**
-- Yes! You can enable misses to display on Relax using our [patcher](https://akatsuki.pw/patcher).
+- Yes! You can enable misses to display on Relax using our [patcher](https://akatsuki.gg/patcher).
 
 -----------------------
 
@@ -59,4 +59,4 @@ old_id: 5
 -----------------------
 
 - **My problem is not listed here**
-- Join our [discord](https://akatsuki.pw/discord) and ask your question in the #help channel of the server.
+- Join our [discord](https://akatsuki.gg/discord) and ask your question in the #help channel of the server.

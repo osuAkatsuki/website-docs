@@ -3,15 +3,15 @@ title: "Как подключится к Akatsuki"
 reference_version: 7dc4cffa956ec184a9bb8c7c2e27e39a
 ---
 - [Скачайте](https://osu.ppy.sh/home) игру с официального osu! сайта
-- [Зарегистрируйте](https://akatsuki.pw/index.php?p=3) аккаунт
+- [Зарегистрируйте](https://akatsuki.gg/index.php?p=3) аккаунт
 - Сойздайте новый **Ярлык** от `osu!.exe`
 - Нажмите на него правой кнопкой мыши
 - В контекстном меню выберите **Свойства**
-- Добавьте `-devserver akatsuki.pw` к **Объекту**, сразу же после пути
-- Ваши изменения должны выглядеть как-то [так](https://akatsuki.pw/static/connection_guide.png)
+- Добавьте `-devserver akatsuki.gg` к **Объекту**, сразу же после пути
+- Ваши изменения должны выглядеть как-то [так](https://akatsuki.gg/static/connection_guide.png)
 - Нажмите на **Применить**
 - Запустите свой ярлык
 - Наслаждайтесь!
 
 ## Поддержка
-- Если у Вас остались проблемы, пишите нам в наш [discord](https://akatsuki.pw/discord)
+- Если у Вас остались проблемы, пишите нам в наш [discord](https://akatsuki.gg/discord)

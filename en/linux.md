@@ -16,7 +16,7 @@ When you've got it open, paste the following at the bottom:
 **CTRL+X** and then **Enter** to save the file.
 
 ### 2. Installing the certificate
-Download the certificate by clicking [*here*](https://old.akatsuki.pw/akatsuki.crt)
+Download the certificate by clicking [*here*](https://old.akatsuki.gg/akatsuki.crt)
 
 Open the Internet Explorer configuration by running `wine control`.
 
