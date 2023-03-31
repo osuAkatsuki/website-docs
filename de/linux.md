@@ -16,7 +16,7 @@ Wenn es geöffnet ist, füge das Folgende ein:
 **CTRL+X** und dann **Enter** um die Datei zu speichern.
 
 ### 2. Installieren des Zertifikates
-Lade dir das Zertifikat herunter, welches du [*hier*](https://old.akatsuki.pw/akatsuki.crt) findest.
+Lade dir das Zertifikat herunter, welches du [*hier*](https://old.akatsuki.gg/akatsuki.crt) findest.
 
 Öffne die Konfiguration für den Internet Explorer, indem du `wine control` ausführst.
 

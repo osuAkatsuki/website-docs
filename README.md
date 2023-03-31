@@ -1,6 +1,6 @@
 # website-docs
 
-A repository containing the documentation available at the Akatsuki website on https://akatsuki.pw/doc. This is made mainly for translation purposes.
+A repository containing the documentation available at the Akatsuki website on https://akatsuki.gg/doc. This is made mainly for translation purposes.
 
 ## How to create new files
 

@@ -2,8 +2,8 @@
 title: "Wie man auf Akatsuki spielen kann"
 reference_version: 7dc4cffa956ec184a9bb8c7c2e27e39a
 ---
-- [Erstelle](http://akatsuki.pw/index.php?p=3) ein Account 
-- Lade dir den [Akatsuki-Switcher](http://akatsuki.pw/static/switcher.exe) herunter
+- [Erstelle](http://akatsuki.gg/index.php?p=3) ein Account 
+- Lade dir den [Akatsuki-Switcher](http://akatsuki.gg/static/switcher.exe) herunter
 - **Schalte dein Antivirenprogramm aus** (Manche Antivieren können Probleme erzeugen)  
 - **Schalte deine Firewall aus** (Firewalls können ebenso Probleme erzeugen)  
 
@@ -23,4 +23,4 @@ reference_version: 7dc4cffa956ec184a9bb8c7c2e27e39a
 _NOTIZ: Wenn du zur Webseite von osu! möchtest, du jedoch Akatsuki's Webseite oder einen Error siehst, obwohl der Switcher sagt, dass du mit osu! verbunden bist, entleere dein Browser-Cache._  
 
 ### Probleme?
-Werf ein Blick ins [FAQ](https://akatsuki.pw/doc/5)!
+Werf ein Blick ins [FAQ](https://akatsuki.gg/doc/5)!

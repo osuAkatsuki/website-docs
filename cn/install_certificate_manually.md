@@ -5,7 +5,7 @@ old_id: 12
 如果你在连接 Akatsuki 时翻车了或者服务器切换器并没有正常安装证书, 你可以试着手动安装.
 
 ### 普通安装
-- 首先, 下载 [证书](https://old.akatsuki.pw/akatsuki.crt)
+- 首先, 下载 [证书](https://old.akatsuki.gg/akatsuki.crt)
 - 然后, 打开 **certificate.cer**
 - 点击 **Install certificate...**
 - 点击 **Next**

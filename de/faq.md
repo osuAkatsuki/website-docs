@@ -54,7 +54,7 @@ reference_version: 54ee910c5a42e83ad3d52236dea5e480
 -----------------------
 
 - **Gibt es einen Patcher für Akatsuki?**
-- Nein, du kannst den Server wechseln, indem du den hosts file mit unserem Switcher änderst. [Anleitung hier](https://akatsuki.pw/doc/1).
+- Nein, du kannst den Server wechseln, indem du den hosts file mit unserem Switcher änderst. [Anleitung hier](https://akatsuki.gg/doc/1).
 
 -----------------------
 
