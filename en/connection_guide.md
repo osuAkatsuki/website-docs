@@ -3,50 +3,53 @@ title: "How to connect to Akatsuki"
 old_id: 1
 ---
 
-- [Register](https://akatsuki.gg/index.php?p=3) an Akatsuki account first!
- 
-## How to connect to Akatsuki: Windows Shortcut
+## How to Connect to Akatsuki: Patcher
 
-- Create a new **Shortcut** from the `osu!.exe` game file
-- Right click the Shortcut and go on **Properties**
-- Add `-devserver akatsuki.gg` to the **Target**, right after your directory
-- Your changes should look like [this](https://akatsuki.gg/static/connection_guide.png)
-- Click on **Apply**
-- Run your Shortcut
-- Enjoy!
+- Download the Akatsuki Patcher, it can be found [here](https://akatsuki.gg/patcher).
+- Run the Akatsuki Patcher.
+- Enjoy playing osu! on Akatsuki!
 
-A video tutorial can also be found [here](https://youtu.be/vN8zqgmN_kI).
+## How to Connect to Akatsuki: Windows Shortcut
 
-## How to connect to Akatsuki: Linux 
+- Locate the `osu!.exe` application on your computer.
+- Right-click on the `osu!.exe` file and select **Create Shortcut**.
+- Right-click on the newly created shortcut and select **Properties**.
+- In **Properties**, add `-devserver akatsuki.gg` to the **Target** field.
+- Click on **Apply** button to save changes.
+- Close the **Properties** window.
+- Run the game from the shortcut.
+- Enjoy playing osu! on Akatsuki!
 
-- Open the script you use to launch osu
+A video tutorial can also be found [here](https://youtu.be/vN8zqgmN_kI)!
 
-- Add `"$@"` after `osu!.exe` if it’s not already present
-So if it looks like: `wine osu\!.exe`, it will become: `wine osu\!.exe "$@"`
-- Then, add `-devserver akatsuki.gg` when you launch the script
-So if you launch osu! with: `./osu.sh`, you can launch Akatsuki with: `./osu.sh -devserver akatsuki.gg`
+## How to Connect to Akatsuki: Linux 
 
-If you only play on Akatsuki, you can also replace `"$@"` with `-devserver akatsuki.gg` so you don’t have to type the server address each time!
+- Open your osu! launch script.
+- If `"$@"` is not already present after `osu!.exe`, add it. For example, modify `wine osu\!.exe` to `wine osu\!.exe "$@"`.
+- When launching the script, add `-devserver akatsuki.gg`. For instance, if you typically use `./osu.sh` to launch osu!, run `./osu.sh -devserver akatsuki.gg`.
 
-## How to connect to Akatsuki: MacOS
+If you exclusively play on Akatsuki, you can replace `"$@"` with `-devserver akatsuki.gg`. This way, you won't need to type the server address each time you want to play!
 
-- Open your osu! Wineskin
+## How to Connect to Akatsuki: MacOS
 
-- If you're running `osu!.exe` directly: 
-Look for file properties, there'll be an argument box: **EXE Flags**
-Add `-devserver akatsuki.gg` to the argument box 
-Save changes then run it normally
+### If you're running `osu!.exe` directly: 
+- Look for **EXE Flags** in file properties.
+- Add `-devserver akatsuki.gg` to the argument box.
+- Save changes then run it normally.
+- Enjoy playing osu! on Akatsuki!
 
-- If you're running `osu!.exe` through a bat file (`execute.bat`):
-Open the bat file on a file editor
-On the same line as `start C:\osu!\osu!.exe`, add: `-devserver akatsuki.gg`
-Save changes then run it normally
+### If you're running `osu!.exe` through a bat file (`execute.bat`):
+- Open the **bat file** on a file editor.
+- Add `-devserver akatsuki.gg` to the same line as start `C:\osu!\osu!.exe`.
+- Save changes then run it normally.
+- Enjoy playing osu! on Akatsuki!
 
-## How to return to Bancho:
+## How to Return to Bancho:
 
-To go back to Bancho you can simply remove the `-devserver` command from the Shortcut. Although from our connection guide it is implicit that you should maintain at least two shortcuts: one being for Bancho, and the other one for Akatsuki. 
-Please keep in mind that, for security reasons, every time you switch servers you'll have to reinsert your login credentials.
+- Remove the `-devserver akatsuki.gg` command from the shortcut you use to launch osu!.
+
+It is recommended to maintain at least two shortcuts: one for the [official server](https://osu.ppy.sh) and another one for Akatsuki. For security reasons, each time you switch servers, you'll need to re-enter your login credentials.
 
 ## Troubleshooting:
 
-If you have any issues, feel free to contact us through our [discord](https://akatsuki.gg/discord)!
+- If you have any issues, feel free to contact us through our [Discord](https://akatsuki.gg/discord)!
