@@ -1,5 +1,5 @@
 ---
-title: "How to connect to Akatsuki"
+title: "How to Connect"
 old_id: 1
 ---
 
