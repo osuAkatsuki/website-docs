@@ -1,7 +1,7 @@
-"""
+---
 title: Beatmap Nomination
 old_id: 69
-"""
+---
 
 # Nomination Process
 Maps that are currently submitted on [official server](https://osu.ppy.sh) but don't have any nomination statuses can receive custom ones on Akatsuki. If a player is interested in having a map go through an evaluation process, they must send it to their respective mode in the Nomination Request category on [Discord](https://akatsuki.gg/discord):
@@ -25,18 +25,6 @@ Here are the currently available nomination status on the server, with their res
 # Nomination Criteria
 Here is the currently available nomination criteria for the server. Due to the diversity of game modes, it may differ for each and every one of them.
 
-## What makes a map not get nominated at all?
-- Maps that have official server beatmap nominators. It is best to wait for any updates from their side before requesting them here.
-- Maps that are currently marked as WIP or Pending on the official server. Exceptions can be given:
-- - If you've contacted the mapper and they've confirmed they won't be committing any more changes to the map.
-- - If you're the mapper and you're requesting your own map to be nominated.
-- Maps that include unnecessary derogatory terms, or NSFW (not safe for work) content.
-- Maps that have been submitted without a mapper's authorization.
-- Maps that aren't finished. Exceptions can be given:
-- - If they contain a "proper" beginning and ending.
-- Maps that are an evident copy of other maps.
-- Maps that trigger ScoreV2.
-
 ## What makes a map get ranked?
 - Maps that contain good overall consistency.
 
@@ -51,3 +39,15 @@ Here is the currently available nomination criteria for the server. Due to the d
 - Sets with Difficulty edits. These will vary on the case, for instance:
 - - If a set contains different BPM edits, the original BPM can be ranked while others must be loved. 
 - - If a set contains different AR edits, the highest AR edit can be ranked while others must be loved. 
+
+## What makes a map not get nominated at all?
+- Maps that have official server beatmap nominators. It is best to wait for any updates from their side before requesting them here.
+- Maps that are currently marked as WIP or Pending on the official server. Exceptions can be given:
+- - If you've contacted the mapper and they've confirmed they won't be committing any more changes to the map.
+- - If you're the mapper and you're requesting your own map to be nominated.
+- Maps that include unnecessary derogatory terms, or NSFW (not safe for work) content.
+- Maps that have been submitted without a mapper's authorization.
+- Maps that aren't finished. Exceptions can be given:
+- - If they contain a "proper" beginning and ending.
+- Maps that are an evident copy of other maps.
+- Maps that trigger ScoreV2.
