@@ -29,7 +29,7 @@ old_id: 5
 -----------------------
 
 - **我不能在多人游玩的时候下图, 但可以在主菜单下.**
-- 在选项中关闭 **自动启动 osu!direct 下载** 然后重试. 此外, 你可以在频道 `#multiplayer` 或 `#spectator` 使用指令 `!b` 获取当前地图的下载链接.
+- 在选项中关闭 **自动启动 osu!direct 下载** 然后重试. 此外, 你可以在频道 `#multiplayer` 或 `#spectator` 使用指令 `!chimu` 获取当前地图的下载链接.
 
 -----------------------
 
@@ -69,4 +69,4 @@ old_id: 5
 -----------------------
 
 - **我的问题不在列表内**
-- 加入我们的 [discord](https://discord.gg/akatsuki) 然后你就可以在 #help 频道里问问题了.
+- 加入我们的 [discord](https://discord.gg/akatsuki) 然后你就可以在 #support 频道里问问题了.
