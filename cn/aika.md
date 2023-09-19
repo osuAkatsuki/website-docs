@@ -6,7 +6,7 @@ old_id: 4
 
 ### 通用指令
 - `!roll` - 返回 0 ~ 100 的一个随机数  
-- `!roll num` - 返回 0 ~ num 的一个随机数
+- `!roll <num>` - 返回 0 ~ num 的一个随机数
 - `!help` - 显示帮助信息
 - `!pp [mode]` - 显示你的当前 pp. 如果没有填写 `mode` , Aika 会告诉你当前模式的 pp. 如果你写了 `mode` (`std/taiko/ctb/mania`), Aika 会告诉你那个模式的 pp. **本指令仅私聊有效**
 - `!update` - 更新你上次在地图镜像里 `/np` 的图. 如果你刚下了个图, 然后提示过期了, 但是点了更新一直提示你更新, 就用这个指令. 
@@ -37,12 +37,11 @@ Aika 拥有类似 Tillerino 的指令. 这些指令只有在私聊才有用. 谨
 - `!system maintenance on/off` - 开关 bancho 的 maintenance 模式
 - `!moderated on/off` - 开关当前频道的管理模式
 - `!silence <username> <count> <unit (s/m/h/d)> <reason>` - 禁言用户
-- `!removesilence <target>` - 解除禁言 
+- `!unsilence <target>` - 解除禁言 
 - `!kick <username>` - 踢出用户
 - `!ban <username>` - 封禁用户
 - `!unban <username>` - 解封用户
 - `!restrict <username>` - 重定向用户
 - `!unrestrict <username>` - 解除重定向用户
-- `!fokabot reconnect` - 让 Aika 重新连接上服务器
 - `!alert <message>` - 向所有在线玩家推送提示
-- `!alertuser  <username> <message>` - 向特定用户推送提示
+- `!alertu <username> <message>` - 向特定用户推送提示

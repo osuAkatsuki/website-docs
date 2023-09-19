@@ -11,7 +11,7 @@ Maps that are currently submitted on [official server](https://osu.ppy.sh) but d
 - `#nomination-ctb`: Available for osu! [catch the beat](https://osu.ppy.sh/wiki/en/Game_mode/osu!catch) maps;
 - `#nomination-mania`: Available for osu! [mania](https://osu.ppy.sh/wiki/en/Game_mode/osu!mania) maps;
 
-Once the map set is sent, when a Beatmap Nominator is available, they’ll go through it and analyze whether the map is worth being **Ranked**, **Loved**, or kept **Unranked**. If a player is not satisfied about a mapset’s given status, or would like to report one that doesn’t follow the current criteria that has been given a status by mistake, they must forward it to the #rank-discussion channel.
+Once the map set is sent, when a Beatmap Nominator is available, they’ll go through it and analyze whether the map is worth being **Ranked**, **Loved**, or kept **Unranked**. If a player is not satisfied about a mapset’s given status, or would like to report one that doesn’t follow the current criteria that has been given a status by mistake, they must forward it to the `#rank-discussion` channel.
 
 # Nomination Statuses
 Here are the currently available nomination status on the server, with their respective purpose:

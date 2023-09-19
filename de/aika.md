@@ -6,7 +6,7 @@ Dies sind die Befehle für unseren Bot, Aika.
 
 ### Allgemeine Befehle
 - `!roll` - Wählt eine zufällige Zahl von 0 bis 100 aus.
-- `!roll num` - Wählt eine zufällige Zahl von 0 bis num aus.
+- `!roll <num>` - Wählt eine zufällige Zahl von 0 bis num aus.
 - `!help` - Hilft dir.
 - `!pp [mode]` - Zeigt dein PP. Ist der `mode` nicht vorhanden, so zeigt Aika dein PP vom aktuellen Spielmodus. Ist der Modus vorhanden (Also `std/taiko/ctb/mania`), so zeigt Aika dein PP für diesen Spielmodus. **Dieser Befehl funktioniert nur in PNs**
 - `!update` - Aktualisiert das Beatmapset, welches du in unserem Beatmap-Mirror `/np`ed hast. Nutze dies, wenn du eine Beatmap von osu!direct downloadest, jedoch die Beatmap veraltet oder zu neu ist.
@@ -37,12 +37,11 @@ Aika hat ein paar Befehle, welche ähnlich für Tillerino sind. Diese Befehle fu
 - `!system maintenance on/off` - An-/Ausschalten von Bancho's Wartungsmodus.
 - `!moderated on/off` - An-/Ausschalten des gemäßigten Modus für den aktuellen Kanal.
 - `!silence <username> <count> <unit (s/m/h/d)> <reason>` - Schalte einen Spieler stumm.
-- `!removesilence <target>` - Entferne den Mute einer Person.
+- `!unsilence <target>` - Entferne den Mute einer Person.
 - `!kick <username>` - Kicke ein Spieler vom Server.
 - `!ban <username>` - Bann und kick jemanden.
 - `!unban <username>` - Entbann jemanden.  
 - `!restrict <username>` - Restricte jemanden. 
 - `!unrestrict <username>` - Unrestrict jemanden. 
-- `!fokabot reconnect` - Neu verbinden von Aika, wenn Sie nicht in der Online-Liste ist.
 - `!alert <message>` - Sende eine Benachrichtugung zu jedem Spieler, welcher Verbunden ist.
-- `!alertuser  <username> <message>` - Sende eine Benachrichtigung zu einem bestimmten Spieler.
+- `!alertu  <username> <message>` - Sende eine Benachrichtigung zu einem bestimmten Spieler.

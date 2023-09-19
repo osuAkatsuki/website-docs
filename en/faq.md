@@ -24,7 +24,7 @@ old_id: 5
 -----------------------
 
 - **I can't download maps when I'm in multiplayer, but I can download them from the main menu**
-- Disable **Automatically start osu!direct downloads** from the options and try again. Alternatively, you can use the `!b`/`!bloodcat` command in `#multiplayer` and `#spectator` to get a download link for the current beatmap.
+- Disable **Automatically start osu!direct downloads** from the options and try again. Alternatively, you can use the `!chimu` command in `#multiplayer` and `#spectator` to get a download link for the current beatmap.
 
 -----------------------
 
@@ -59,4 +59,4 @@ old_id: 5
 -----------------------
 
 - **My problem is not listed here**
-- Join our [discord](https://akatsuki.gg/discord) and ask your question in the #help channel of the server.
+- Join our [discord](https://akatsuki.gg/discord) and ask your question in the `#support` channel of the server.

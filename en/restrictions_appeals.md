@@ -18,9 +18,9 @@ When your account is restricted, the following features are disabled or limited:
 
 First of all - don't fret! Some restrictions can be erroneous and in these cases, a simple email is enough to have your problem resolved.
 
-All queries regarding restrictions are handled through our support email (support@akatsuki.gg). Any emails regarding your restriction status as well as appeals should be sent here. **Contacting staff members in any capacity alongside creating tickets in the Discord server regarding your restriction/appeal is prohibited and may affect your appeal status if you are persistent with this**.
+All queries regarding restrictions are handled through our support email (`support@akatsuki.gg`). Any emails regarding your restriction status as well as appeals should be sent here. **Contacting staff members in any capacity alongside creating tickets in the Discord server regarding your restriction/appeal is prohibited and may affect your appeal status if you are persistent with this**.
 
-Regardless of whether you are sending an appeal or asking for clarification regarding your restriction, please include your Akatsuki username in the email so we know who you are. Furthermore, you will need to send any emails from the email listed on your Akatsuki account. If you have lost access to that email or your Akatsuki account, please get this resolved by creating a ticket on the [Discord](https://akatsuki.pw/discord) first.
+Regardless of whether you are sending an appeal or asking for clarification regarding your restriction, please include your Akatsuki username in the email so we know who you are. Furthermore, you will need to send any emails from the email listed on your Akatsuki account. If you have lost access to that email or your Akatsuki account, please get this resolved by creating a ticket on the [Discord](https://akatsuki.gg/discord) first.
 
 If you are unsure why your restriction happened, this is fine and often means that it was due to an automated process. In this case, send an email as described above and ask for more information regarding your restriction - if it was made in error, it will be resolved as soon as possible. If not, you should read the following information on how non-erroneous restrictions will be handled.
 
@@ -41,12 +41,12 @@ If you send an appeal before your appeal cooldown is up, the appeal will be simp
 
 # How do I appeal?
 
-If you are here, then you either believe you were restricted in error or your appeal cooldown has expired. As stated above, all appeals are handled via email (support@akatsuki.gg). When you send an appeal, you can expect responses to take up to a week. If after this time you still haven't received a response, you are free to reply to your appeal and ask for an update. If there are further issues beyond that point, then you may as a last resort create a ticket in the [Discord](https://akatsuki.pw/discord) to find out if your appeal was received, **but we will not handle your case in the ticket**.
+If you are here, then you either believe you were restricted in error or your appeal cooldown has expired. As stated above, all appeals are handled via email (`support@akatsuki.gg`). When you send an appeal, you can expect responses to take up to a week. If after this time you still haven't received a response, you are free to reply to your appeal and ask for an update. If there are further issues beyond that point, then you may as a last resort create a ticket in the [Discord](https://akatsuki.gg/discord) to find out if your appeal was received, **but we will not handle your case in the ticket**.
 
 Appeals exist in order for you to reflect on your actions aswell as convince us that you have improved from your past mistakes and deserve another chance. Due to this, when appealing we expect the following points to be covered in your appeal:
 
 - **The actions which led to your restriction**. This doesn't need to be *too* detailed. This should include the reason why you were restricted, alongside any relevant details (a list of accounts if you were restricted for multi-accounting, for example). You are not expected to remember every date or account here - we are just looking for honesty. If you have forgotten certain details, that is fine, but you must make us aware so we do not think you are attempting to be dishonest. If you have broken any rules during your restriction period, please include them here.
-- **Why you broke the rules**. For whatever reason you broke the rules, please give an explanation for it. This gives us an understanding of how likely you are to be a reoffender. Furthermore, if you broke rules during your restriction, it is very important that you give reasoning for this. You should be as honest as possible here - it doesn't matter if your reasonings are stupid; we would prefer to here the truth.
+- **Why you broke the rules**. For whatever reason you broke the rules, please give an explanation for it. This gives us an understanding of how likely you are to be a reoffender. Furthermore, if you broke rules during your restriction, it is very important that you give reasoning for this. You should be as honest as possible here - it doesn't matter if your reasonings are stupid; we would prefer to hear the truth.
 - **How you broke the rules**. This doesn't apply to every case. This applies only to cheating cases. If you were restricted for cheating, we want to know what specific tool you used, what it does, how you found it and where it can be obtained. This is to aid our future enquiries with other users, aswell as understand exactly to what extent you broke the rules.
 - **Why you should be given another chance**. This is the most important point of all. People make mistakes, we are all human, and this is why we give second chances. However, it is important that we are able to see an improvement in behaviour to decrease the likelihood you break the rules again. The more violent your account history is, the better we expect this section to be - you must convince us you are capable of following the rules!
 
@@ -63,7 +63,7 @@ If your appeal got denied, then it is likely inevitable you did something wrong.
 
 While our team do their best to treat all appeals fairly without any bias, we will also accept this may not always be the case.
 
-If you feel that your appeal was unfairly denied, you were ignored, or expected a different outcome then we have a process for this. There is another email which is monitored by people who aren't associated with the appeals team. You can send an email to appeal-review@akatsuki.gg outlining the following:
+If you feel that your appeal was unfairly denied, you were ignored, or expected a different outcome then we have a process for this. There is another email which is monitored by people who aren't associated with the appeals team. You can send an email to `appeal-review@akatsuki.gg` outlining the following:
 
 - When you sent your appeal
 - The response you received (if any)
@@ -76,14 +76,14 @@ It is important to note that emailing the reviews team does not guarantee you wi
 
 # Cooldowns
 
-| Offence                              | Duration       | Notes                                                                           |
-| ------------------------------------ | -------------- | ------------------------------------------------------------------------------- |
-| Cheating (first offence)             | 3 months       | Full profile wipe is applied                                                    |
-| Cheating (second offence)            | 12 months      | Full profile wipe is applied                                                    |
-| Multi-accounting                     | 2 months       | Cooldown will expand by 1 month for any accounts created after your restriction |
-| Account Sharing                      | 2 months       | Offending players will be met with a full profile wipe                          |
-| Tablet filter abuse (first offence)  | No restriction | Profile rollback for scores set                                                 |
-| Tablet filter abuse (second offence) | 3 months       | Treated as a regular cheating restriction                                       |
+| Offence                                 | Duration          | Notes                                                                           |
+| --------------------------------------- | ----------------- | ------------------------------------------------------------------------------- |
+| Cheating (first offence)                | 3 months          | Full profile wipe is applied                                                    |
+| Cheating (second offence)               | 12 months         | Full profile wipe is applied                                                    |
+| Multi-accounting                        | 2 months          | Cooldown will expand by 1 month for any accounts created after your restriction |
+| Account Sharing                         | 2 months          | Offending players will be met with a full profile wipe                          |
+| Tablet filter abuse (first offence)     | No restriction    | Profile rollback for scores set                                                 |
+| Tablet filter abuse (second offence)    | 3 months          | Treated as a regular cheating restriction                                       |
 
 Any restriction cases not mentioned will usually last 2 months, but this time is not guaranteed and will be reviewed on a case by case basis - you should get in touch if this applies to your case.
 

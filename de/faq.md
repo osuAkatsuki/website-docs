@@ -1,5 +1,5 @@
 ---
-title: "FAQ"
+title: "Häufig gestellte Fragen"
 reference_version: 54ee910c5a42e83ad3d52236dea5e480
 ---
 
@@ -29,7 +29,7 @@ reference_version: 54ee910c5a42e83ad3d52236dea5e480
 -----------------------
 
 - **Ich kann keine Maps herunterladen, wenn ich im Mehrspieler bin, aber ich kann sie vom Hauptmenü herunterladen!**
-- Deaktiviere **Automatically start osu!direct downloads** in den Optionen und versuche es erneut. Alternativ kasst du den `!b` Befehl im `#multiplayer` und `#spectator` benutzen um einen Downloadlink der aktuellen Beatmap zu erhalten.
+- Deaktiviere **Automatically start osu!direct downloads** in den Optionen und versuche es erneut. Alternativ kasst du den `!chimu` Befehl im `#multiplayer` und `#spectator` benutzen um einen Downloadlink der aktuellen Beatmap zu erhalten.
 
 -----------------------
 
@@ -69,4 +69,4 @@ reference_version: 54ee910c5a42e83ad3d52236dea5e480
 -----------------------
 
 - **Mein Problem wurde nicht augelistet**
-- Betrete unseren [Discord](https://discord.gg/akatsuki) und stelle deine Fragen in #help.
+- Betrete unseren [Discord](https://discord.gg/akatsuki) und stelle deine Fragen in #support.

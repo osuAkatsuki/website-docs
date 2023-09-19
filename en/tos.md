@@ -3,7 +3,7 @@ title: "Terms of Service"
 old_id: 9
 ---
 
-Thank you for playing on Akatsuki! By playing, you agree to follow the below guidelines. Doing so could warrant immediate removal from our services.
+Thank you for playing on Akatsuki! By playing, you agree to follow the below guidelines. Not doing so could warrant immediate removal from our services.
 
 - Absolutely no botting, cheating, or hacking. This includes any method of giving yourself an unfair advantage over other players.
 - If you see someone breaking the rules, report them in-game or in our discord. Knowingly helping someone who breaks our terms of service can lead to removal from our services.
