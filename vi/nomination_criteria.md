@@ -8,7 +8,7 @@ Các map được gửi lên [server chính thức](https://osu.ppy.sh) nhưng k
 
 - `#nomination-std`: Dành cho map osu! [standard](https://osu.ppy.sh/wiki/en/Game_mode/osu!);
 - `#nomination-taiko`: Dành cho map osu! [taiko](https://osu.ppy.shwiki/en/Game_mode/osu!taiko);
-- `#nomination-ctb`: Dành cho osu! [catch the beat](https://osu.ppy.sh/wiki/en/Game_mode/osu!catch) maps;
+- `#nomination-ctb`: Dành cho map osu! [catch the beat](https://osu.ppy.sh/wiki/en/Game_mode/osu!catch);
 - `#nomination-mania`: Dành cho map osu! [mania](https://osu.ppy.sh/wiki/en/Game_mode/osu!mania);
 
 Khi map của bạn được gửi lên 1 trong 4 kênh trên và một Beatmap Nominator có thể kiểm tra map, họ sẽ kiểm tra map đó và quyết định xem map nên được **Ranked**, **Loved**, hay là giữ **Unranked**. Nếu bạn không vui với quyết định của một map, hoặc muốn report map ranked kém chất lượng - bạn phải gửi map đó vào kênh `#rank-discussion`.
@@ -32,22 +32,22 @@ Dưới đây là tiêu chí Nomination hiện có trên server. Do sự đa d�
 - Các map có timing chưa chuẩn.
 - Các map lạm dụng hệ thống PP.
 - Các map 2B hoặc Aspire. Một số trường hợp ngoại lệ:
-- - Chúng có thể được rank nếu như chúng không làm hỏng hệ thống PP hoặc hệ thống gửi điểm
+    - Chúng có thể được rank nếu như chúng không làm hỏng hệ thống PP hoặc hệ thống gửi điểm
 - Các map không thể rank được nhưng khá nổi.
 - Các map có hit object hoặc slider ẩn và không thể bấm được.
 - Các map kém chất lượng và không được trau chuốt.
 - Các mapset thay đổi độ khó ít một. Tất nhiên là tuỳ trượng hợp, ví dụ như:
-- - Nếu một mapset có các độ khó chỉ edit BPM, BPM gốc sẽ được rank và còn lại sẽ chỉ được Loved. 
-- - Nếu một mapset có các độ khó chỉ thay đổi AR, difficulty với AR cao nhất sẽ được rank, còn lại sẽ được Loved. 
+    - Nếu một mapset có các độ khó chỉ edit BPM, BPM gốc sẽ được rank và còn lại sẽ chỉ được Loved. 
+    - Nếu một mapset có các độ khó chỉ thay đổi AR, difficulty với AR cao nhất sẽ được rank, còn lại sẽ được Loved. 
 
 ## Điều gì khiến một map không thể được nominate tại đây?
 - Các map có BN trong server chính thức. Nên đợi họ update/rank map trước khi request ở đây
 - Map được đánh dấu là WIP hoặc Đang chờ trong server chính thức. Một số trường hợp ngoại lệ:
-- - Nếu bạn đã liên hệ mapper và họ xác nhận là sẽ không thay đổi map nữa.
-- - Nếu bạn là mapper và đang muốn rank map của chính mình.
+    - Nếu bạn đã liên hệ mapper và họ xác nhận là sẽ không thay đổi map nữa.
+    - Nếu bạn là mapper và đang muốn rank map của chính mình.
 - Các map liên quan tới vấn đề phân biệt chủng tộc, hoặc content NSFW (not safe for work).
 - Các map được submit mà không có sự đồng ý của người làm map gốc.
 - Các map chưa được hoàn thiện. Một số trường hợp ngoài lệ:
-- - Nếu nó có đoạn bắt đầu và đoạn kết thúc một cách "đúng đắn".
+    - Nếu nó có đoạn bắt đầu và đoạn kết thúc một cách "đúng đắn".
 - Các map được copy một cách trắng trợn.
-- Các map khiến kích hoạt ScoreV2.
+- Các map khiến client kích hoạt ScoreV2.
