@@ -28,4 +28,4 @@ Para solucionar este problema, necesitas localizar su carpeta de osu! en el parc
 Intentas usar una versión antigua del parche que ya no funciona. Descarga la versión más reciente del parche de la [página oficial de descargar](https://akatsuki.gg/patcher).
 
 ## ¡Sigo teniendo problemas!
-Si sigues teniendo problemas después de mirar esta guía, por favor abre un ticket in our [Discord](https://akatsuki.gg/discord) and describe the issue. We will do our best to help!
+Si sigues teniendo problemas después de mirar esta guía, por favor abre un ticket en nuestro [Discord](https://akatsuki.gg/discord) y describe el problema. ¡Haremos todo lo posible para ayudar!
