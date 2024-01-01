@@ -14,9 +14,9 @@ It should be noted that real-time protection will automatically be re-enabled af
 - Under the same **Virus & threat protection settings** menu, scroll down until you see **Exclusions**.
 - Select **Add or remove exclusions** (you may need to allow the application administrator privileges).
 - Select **Add an exclusion** > **File** and select the patcher executable file.
-    - You may also need to exclude the temp folder, which also contains files needed for the patcher:
-        - Select **Add an exclusion** > **Folder**, and type `%temp%` into the address bar at the top.
-        - Click **Select Folder**.
+- You may also need to exclude the temp folder, which also contains files needed for the patcher:
+- Select **Add an exclusion** > **Folder**, and type `%temp%` into the address bar at the top.
+- Click **Select Folder**.
 
 ## I can't play any beatmaps when using the patcher! ("Beatmap could not be loaded successfully")
 To fix this issue, you must relocate your osu! directory using the patcher:
