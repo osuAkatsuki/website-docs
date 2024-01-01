@@ -14,7 +14,7 @@ La protección en tiempo real se activará de nuevo después de algún tiempo, e
 - En el mismo menú **Protección antivirus y contra amenazas**, desplázate hacia abajo hasta que veas **Exclusiones**.
 - Selecciona **Agregar o quitar exclusiones** (puede que tengas que dar la aplicación privilegios de administrador).
 - Selecciona **Agregar exclusión** > **Archivo** y selecciona el archivo del parche.
-Puede que tengas que excluir la carpeta **Temp**, que también tiene archivos necesarios para el parche.
+- Puede que tengas que excluir la carpeta **Temp**, que también tiene archivos necesarios para el parche.
 - Selecciona **Agregar exclusión** > **Carpeta**, y teclear `%temp%` en el recuadro en la parte superior.
 - Haz clic en **Seleccionar Carpeta**.
 
