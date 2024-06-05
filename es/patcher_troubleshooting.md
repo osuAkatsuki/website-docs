@@ -4,6 +4,7 @@ title: "Solucionar problemas con el parche"
 
 ## ¡No puedo activar los fallos de RX mientras uso el parche!
 Si no ves los dos opciones "Akatsuki" en la parte superior del menú de opciones, significa que el parche realmente no se ha cargado en osu!. Generalmente, esto se debe a que Windows Defender marca el archivo del parche como malicioso. No hay nada que se pueda hacer para solucionar esto, entonces necesitas desactivar **temporalmente** la protección en tiempo real para usar el parche.
+
 - Abre el menú de opciones de **Seguridad de Windows** abriendo el menú Start y tecleando "Seguridad de Windows".
 - Selecciona **Protección antivirus y contra amenazas**.
 - Abajo de **Configuración de antivirus y protección contra amenazas**, selecciona **Administrar la configuración**.
@@ -11,6 +12,7 @@ Si no ves los dos opciones "Akatsuki" en la parte superior del menú de opciones
 - Descarga otra vez el parche de la [página oficial de descargar](https://akatsuki.gg/patcher).
 
 La protección en tiempo real se activará de nuevo después de algún tiempo, entonces para prevenir este problema en el futuro, recomendamos que excluyas el archivo del parche de Windows Defender:
+
 - En el mismo menú **Protección antivirus y contra amenazas**, desplázate hacia abajo hasta que veas **Exclusiones**.
 - Selecciona **Agregar o quitar exclusiones** (puede que tengas que dar la aplicación privilegios de administrador).
 - Selecciona **Agregar exclusión** > **Archivo** y selecciona el archivo del parche.
@@ -20,6 +22,7 @@ La protección en tiempo real se activará de nuevo después de algún tiempo, e
 
 ## ¡No puedo cargar a ningún beatmap! ("Beatmap no se a podido cargar")
 Para solucionar este problema, necesitas localizar su carpeta de osu! en el parche:
+
 - Abre el archive del parche (`akatsuki_patcher.exe`).
 - Haz clic en la opción **Locate**, y selecciona tu carpeta de osu!.
 - Haz clic en **Launch** en el parche.
