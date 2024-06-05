@@ -51,3 +51,39 @@ Here is the currently available nomination criteria for the server. Due to the d
   - If they contain a "proper" beginning and ending.
 - Maps that are an evident copy of other maps.
 - Maps that trigger ScoreV2.
+
+
+# Akatsuki's osu!mania Ranking Criteria
+This document outlines the official ranking criteria for osu!mania on this private server. It specifies the requirements for beatmaps to be considered for ranking or the 'Loved' category. Our goal is to maintain quality standards and fairness in the beatmaps promoted within this community. 
+
+(*Criteria might be adjusted and updated at any time.*)
+
+## Rankable Beatmap Criteria
+#### General Requirements
+- **Bancho's default rules** (except drain time rule)
+- **Minimum Length**: Each beatmap must be at least 30 seconds long.
+- **Pattern and Mapping Techniques**: Acceptable patterns and techniques should be fair and not exploitative in terms of performance points (pp). (*Benchmark: Bancho's acceptance of pp-abuse, plus a bit more*)
+
+#### Special Effects
+- **Scroll Velocity (SV) Changes**: SV changes are allowed if they are structured, meaningful, and readable.
+
+## Non-Rankable Criteria
+- **Prohibited Patterns and Maps**: The following patterns are not allowed due to their potential for pp abuse or lack of quality:
+  - **Vibro** patterns
+  - **4/3-3/4** patterns or any of that kind
+  - **Long (LN) Rolls/ Trills**, especially when used excessively to inflate pp
+  - **Inverse/FLN** maps
+  - **Gimmick** and **Memory Maps**: Maps focused on gimmicks or requiring memorization are not allowed in the ranked section.
+  - **Sets** with **Different Rates/BPM**, the original may be ranked.
+  - Maps that are deemed unrankable but have a **lot of traction**.
+  - Maps that aren't timed accurately.
+
+## Non-Loveable Criteria (&rarr;Not Rankable)
+- Akatsuki's standard "**What makes a map not get nominated at all?**", plus:
+- **Unstructured SV Changes**: SV changes that do not contribute to the map's readability and structure.
+- **Dumps** with near to no popularity on Bancho.
+- **Low-Quality Beatmaps**: Maps that are deemed to be very low effort.
+
+---
+## Note on current Ranked-Section
+Due to historical events, the current ranked-section of Akatsuki contains maps that do not meet these ranking criteria but are still present. These maps are considered temporary exceptions until the Ranked-Section has been thoroughly reviewed and cleaned up.

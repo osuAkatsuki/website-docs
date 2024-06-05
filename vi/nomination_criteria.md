@@ -8,7 +8,7 @@ Các map được gửi lên [server chính thức](https://osu.ppy.sh) nhưng k
 
 - `#nomination-std`: Dành cho map osu! [standard](https://osu.ppy.sh/wiki/en/Game_mode/osu!);
 - `#nomination-taiko`: Dành cho map osu! [taiko](https://osu.ppy.shwiki/en/Game_mode/osu!taiko);
-- `#nomination-ctb`: Dành cho osu! [catch the beat](https://osu.ppy.sh/wiki/en/Game_mode/osu!catch) maps;
+- `#nomination-ctb`: Dành cho map osu! [catch the beat](https://osu.ppy.sh/wiki/en/Game_mode/osu!catch);
 - `#nomination-mania`: Dành cho map osu! [mania](https://osu.ppy.sh/wiki/en/Game_mode/osu!mania);
 
 Khi map của bạn được gửi lên 1 trong 4 kênh trên và một Beatmap Nominator có thể kiểm tra map, họ sẽ kiểm tra map đó và quyết định xem map nên được **Ranked**, **Loved**, hay là giữ **Unranked**. Nếu bạn không vui với quyết định của một map, hoặc muốn report map ranked kém chất lượng - bạn phải gửi map đó vào kênh `#rank-discussion`.
@@ -50,4 +50,4 @@ Dưới đây là tiêu chí Nomination hiện có trên server. Do sự đa d�
 - Các map chưa được hoàn thiện. Một số trường hợp ngoài lệ:
   - Nếu nó có đoạn bắt đầu và đoạn kết thúc một cách "đúng đắn".
 - Các map được copy một cách trắng trợn.
-- Các map khiến kích hoạt ScoreV2.
+- Các map khiến client kích hoạt ScoreV2.
