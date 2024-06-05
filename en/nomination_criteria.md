@@ -76,7 +76,7 @@ This document outlines the official ranking criteria for osu!mania on this priva
   - **Gimmick** and **Memory Maps**: Maps focused on gimmicks or requiring memorization are not allowed in the ranked section.
   - **Sets** with **Different Rates/BPM**, the original may be ranked.
   - Maps that are deemed unrankable but have a **lot of traction**.
-  - Maps that aren’t timed accurately.
+  - Maps that aren't timed accurately.
 
 
 
