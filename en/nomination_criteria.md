@@ -32,23 +32,23 @@ Here is the currently available nomination criteria for the server. Due to the d
 - Maps that aren't timed accurately.
 - Maps that blatantly abuse the performance system.
 - Maps with 2B or Aspire aspects. Exceptions can be given:
-    - They can be ranked as long as they don't break the performance or score submission system.
+  - They can be ranked as long as they don't break the performance or score submission system.
 - Maps that are deemed unrankable but have a lot of traction.
 - Maps with hit objects or invisible sliders that cannot be hit.
 - Maps that are low quality and are deemed to be very low effort.
 - Sets with Difficulty edits. These will vary on the case, for instance:
-    - If a set contains different BPM edits, the original BPM can be ranked while others must be loved. 
-    - If a set contains different AR edits, the highest AR edit can be ranked while others must be loved. 
+  - If a set contains different BPM edits, the original BPM can be ranked while others must be loved. 
+  - If a set contains different AR edits, the highest AR edit can be ranked while others must be loved. 
 
 ## What makes a map not get nominated at all?
 - Maps that have official server beatmap nominators. It is best to wait for any updates from their side before requesting them here.
 - Maps that are currently marked as WIP or Pending on the official server. Exceptions can be given:
-    - If you've contacted the mapper and they've confirmed they won't be committing any more changes to the map.
-    - If you're the mapper and you're requesting your own map to be nominated.
+  - If you've contacted the mapper and they've confirmed they won't be committing any more changes to the map.
+  - If you're the mapper and you're requesting your own map to be nominated.
 - Maps that include unnecessary derogatory terms, or NSFW (not safe for work) content.
 - Maps that have been submitted without a mapper's authorization.
 - Maps that aren't finished. Exceptions can be given:
-    - If they contain a "proper" beginning and ending.
+  - If they contain a "proper" beginning and ending.
 - Maps that are an evident copy of other maps.
 - Maps that trigger ScoreV2.
 
@@ -77,8 +77,6 @@ This document outlines the official ranking criteria for osu!mania on this priva
   - **Sets** with **Different Rates/BPM**, the original may be ranked.
   - Maps that are deemed unrankable but have a **lot of traction**.
   - Maps that aren't timed accurately.
-
-
 
 ## Non-Loveable Criteria (&rarr;Not Rankable)
 - Akatsuki's standard "**What makes a map not get nominated at all?**", plus:
