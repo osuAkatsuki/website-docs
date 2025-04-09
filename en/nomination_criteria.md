@@ -23,34 +23,7 @@ Here are the currently available nomination status on the server, with their res
 - **Unranked**: Unranked beatmaps use the **question mark icon** in the song selection screen. They don’t offer any leaderboards nor allow the player to gain any performance points from setting scores, their only benefit is to increment a player’s total score. This is the default given status for beatmaps.
 
 # Nomination Criteria
-Here is the currently available nomination criteria for the server. Due to the diversity of game modes, it may differ for each and every one of them.
-
-## What makes a map get ranked?
-- Maps that contain good overall consistency.
-
-## What makes a map get loved?
-- Maps that aren't timed accurately.
-- Maps that blatantly abuse the performance system.
-- Maps with 2B or Aspire aspects. Exceptions can be given:
-  - They can be ranked as long as they don't break the performance or score submission system.
-- Maps that are deemed unrankable but have a lot of traction.
-- Maps with hit objects or invisible sliders that cannot be hit.
-- Maps that are low quality and are deemed to be very low effort.
-- Sets with Difficulty edits. These will vary on the case, for instance:
-  - If a set contains different BPM edits, the original BPM can be ranked while others must be loved. 
-  - If a set contains different AR edits, the highest AR edit can be ranked while others must be loved. 
-
-## What makes a map not get nominated at all?
-- Maps that have official server beatmap nominators. It is best to wait for any updates from their side before requesting them here.
-- Maps that are currently marked as WIP or Pending on the official server. Exceptions can be given:
-  - If you've contacted the mapper and they've confirmed they won't be committing any more changes to the map.
-  - If you're the mapper and you're requesting your own map to be nominated.
-- Maps that include unnecessary derogatory terms, or NSFW (not safe for work) content.
-- Maps that have been submitted without a mapper's authorization.
-- Maps that aren't finished. Exceptions can be given:
-  - If they contain a "proper" beginning and ending.
-- Maps that are an evident copy of other maps.
-- Maps that trigger ScoreV2.
+The nomination criteria may be found [here.](https://docs.google.com/document/d/1s2d7bku_pAtz0Gru8rlhJam7WIYyWMNVM5t1jdPgheM)
 
 ---
 ## Note on current Ranked-Section
