@@ -80,9 +80,9 @@ It is important to note that emailing the reviews team does not guarantee you wi
 | --------------------------------------- | ----------------- | ------------------------------------------------------------------------------- |
 | Cheating (first offence)                | 3 months          | Full profile wipe is applied                                                    |
 | Cheating (second offence)               | 12 months         | Full profile wipe is applied                                                    |
-| Multi-accounting                        | 2 months          | Cooldown will expand by 1 month for any accounts created after your restriction |
+| Multi-accounting                        | 2 months          | Cooldown will expand by 1 month for any month you make more multiaccounts after |
 | Account Sharing                         | 2 months          | Offending players will be met with a full profile wipe                          |
-| Tablet filter abuse (first offence)     | None              | Profile rollback for scores set                                                 |
+| Tablet filter abuse (first offence)     | None              | Full standard relax profile wipe                                                |
 | Tablet filter abuse (second offence)    | 3 months          | Treated as a regular cheating restriction                                       |
 
 Any restriction cases not mentioned will usually last 2 months, but this time is not guaranteed and will be reviewed on a case by case basis - you should get in touch if this applies to your case.
